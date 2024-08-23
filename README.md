@@ -17,7 +17,7 @@ Ta sẽ không code trên nhánh main mà thay vào đó ta sẽ tách nhánh đ
 
     ```sh
     git push -u origin <name branch>
-    ```
+    `
 # III. Stash git
 Mình dùng stash git khi nào?
 
