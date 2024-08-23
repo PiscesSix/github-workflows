@@ -14,3 +14,7 @@ Ta sẽ không code trên nhánh main mà thay vào đó ta sẽ tách nhánh đ
     git checkout -b <new branch>
     ```
 2. Khi push code lên tạo PR (pull request) để code được review, sau đó mới merge.
+
+    ```sh
+    git push -u origin <name branch>
+    ```
